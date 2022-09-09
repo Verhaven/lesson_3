@@ -1,0 +1,28 @@
+
+body{
+    background-color: rgba(249, 244, 239, 0.985);
+}
+.baner{
+    width: 100%;
+}
+ul .item{
+    display: inline; 
+    background-color: rgb(240, 220, 205);
+}
+a{
+    text-decoration: none;
+    font-size: 24px;
+}  
+.sn-item{
+   color: rgb(251, 110, 9);
+}
+.sd-item{
+    color: rgba(117, 17, 224, 0.822);
+ }
+ .ht-item{
+    color: rgba(251, 115, 140, 0.845);
+ }
+ footer > a{
+    color: rgb(243, 8, 8);
+ }       
+    
